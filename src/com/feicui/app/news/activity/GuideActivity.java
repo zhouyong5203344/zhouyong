@@ -42,7 +42,7 @@ public class GuideActivity extends Activity{
 	private int width;
 	/**小圆点*/
 	private View v_point;
-	/**引导图片资源*/
+	/**引导图片资源集合*/
 	private static final int[] img_id=new int[]{R.drawable.guide_1,R.drawable.guide_2,R.drawable.guide_3};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
