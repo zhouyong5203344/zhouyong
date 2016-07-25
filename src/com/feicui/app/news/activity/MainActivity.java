@@ -13,7 +13,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.view.Window;
 /**
- * 主页面
+ * 主界面
  */
 public class MainActivity extends SlidingFragmentActivity {
 	private static final String FRAGMENT_LEFT_MENU = "fragment_left_menu";
